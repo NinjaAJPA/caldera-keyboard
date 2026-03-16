@@ -1,6 +1,6 @@
 # ⌨️ Caldera Keyboard
 
-This repo contains:
+This repo contains: 
 
 - The [Ergogen](https://github.com/ergogen/ergogen) v4 `config.yaml` file
 - The outputted PCB files for use in KiCad (both the wired and uncompleted versions) available in the `ergogen` directory
